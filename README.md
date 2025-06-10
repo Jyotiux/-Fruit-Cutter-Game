@@ -9,8 +9,7 @@ A fun and simple browser-based game where players "cut" fruits by clicking on th
 
 ##  Live Demo
 
-
-
+https://jyotiux.github.io/-Fruit-Cutter-Game/
 ---
 
 ##  How to Play
